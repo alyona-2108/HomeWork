@@ -3,15 +3,11 @@ int a = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Input second number: ");
 int b = Convert.ToInt32(Console.ReadLine());
 
-int max = a;
-
-if(a < b)
+if(a > b)
 {
-  Console.Write("max = ");
-  Console.WriteLine( max = b);
+    Console.WriteLine($"max = {a}");
 }
 else
 {
-  Console.Write("max = ");
-  Console.WriteLine(max = a);
+  Console.WriteLine($"max = {b}");
 }
