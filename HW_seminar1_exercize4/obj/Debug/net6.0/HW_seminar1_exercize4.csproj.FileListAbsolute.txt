@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\bin\Debug\net6.0\HW_seminar1_exercize4.exe
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\bin\Debug\net6.0\HW_seminar1_exercize4.deps.json
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\bin\Debug\net6.0\HW_seminar1_exercize4.runtimeconfig.json
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\bin\Debug\net6.0\HW_seminar1_exercize4.dll
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\bin\Debug\net6.0\HW_seminar1_exercize4.pdb
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\obj\Debug\net6.0\HW_seminar1_exercize4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\obj\Debug\net6.0\HW_seminar1_exercize4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\obj\Debug\net6.0\HW_seminar1_exercize4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\obj\Debug\net6.0\HW_seminar1_exercize4.AssemblyInfo.cs
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\obj\Debug\net6.0\HW_seminar1_exercize4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\obj\Debug\net6.0\HW_seminar1_exercize4.dll
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\obj\Debug\net6.0\refint\HW_seminar1_exercize4.dll
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\obj\Debug\net6.0\HW_seminar1_exercize4.pdb
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\obj\Debug\net6.0\HW_seminar1_exercize4.genruntimeconfig.cache
+C:\Users\user\Desktop\GeekBrains\HomeWork\HomeWork\HW_seminar1_exercize4\obj\Debug\net6.0\ref\HW_seminar1_exercize4.dll
